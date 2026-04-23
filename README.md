@@ -1,4 +1,4 @@
-# devTinder-Frontend 🚀  
+# DevTinder-Frontend 🚀  
 **Swipe Right on Collaboration.™**
 
 devTinder is a modern web application designed to connect developers from around the world. Whether you're looking for a project partner, a mentor, or just someone to code with, devTinder helps you find your match in the developer community. This repository contains the complete source code for the **frontend** of the application, built with **React** and **Vite**.
