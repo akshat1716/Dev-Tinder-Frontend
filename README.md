@@ -27,7 +27,7 @@ Users can create a profile showcasing their skills, projects, and interests. The
 
 > ⚠️ **Backend Repository**:  
 > Please note that this repository only contains the frontend code. The backend service for this application is located in a separate public GitHub repository.  
-> ➡️ **Find the Backend Repository Here**: [https://github.com/carti0459/devTinder]
+> ➡️ **Find the Backend Repository Here**: [https://github.com/akshat1716/Dev-Tinder]
 
 ---
 
